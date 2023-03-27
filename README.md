@@ -52,6 +52,8 @@ I am at a stage in my life where I want to make a difference in my daily tasks, 
 
 
 ## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicogalarce7&hide_border=true&layout=compact" align="center" /></div>
+<br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nicogalarce7&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
