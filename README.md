@@ -1,5 +1,5 @@
 <div align="center">Hi word!</div>  
-<div align="center">I'm Nicolas Galarce, a full-time full-stack freelance developer 👨‍💻</div>  
+<div align="center">I'm Nicolas Galarce, full-stack freelance developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Bolsillo-Feliz](https://bolsillo-feliz-client.vercel.app/)  
